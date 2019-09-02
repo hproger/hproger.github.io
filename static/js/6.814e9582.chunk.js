@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{60:function(e,t,n){"use strict";n.r(t);var a=n(4),c=n(5),r=n(7),i=n(6),u=n(8),o=n(0),s=function(e){function t(){return Object(a.a)(this,t),Object(r.a)(this,Object(i.a)(t).apply(this,arguments))}return Object(u.a)(t,e),Object(c.a)(t,[{key:"render",value:function(){return o.createElement("div",{className:"page-header2"},"\u0411\u043b\u043e\u043a \u0448\u0430\u043f\u043a\u0438 2")}}]),t}(o.Component);t.default=s}}]);
-//# sourceMappingURL=6.814e9582.chunk.js.map
