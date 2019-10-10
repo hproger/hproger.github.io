@@ -582,13 +582,26 @@ ul
   padding-left 20px
   padding-right 20px
   padding-top 50px
-  overflow hidden
+  overflow-x hidden
+  position relative
+  &:before
+    content ''
+    position absolute
+    left 0
+    right 0
+    top -33px
+    height 390px
+    pointer-events none
+    background-color #fafafa
+    z-index 0
   &__inner
     max-width maxWidth
     margin 0 auto
     padding-top 50px
     padding-bottom 120px
     border-top 1px solid #E4E4E4
+    position relative
+    z-index 1
   &__header
     display flex
     justify-content space-between
